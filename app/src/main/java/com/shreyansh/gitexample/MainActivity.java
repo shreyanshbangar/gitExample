@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         t.setText("aaaaaaaaaaaaaaaaaaaaaaaaaaa");
         t.setText("aaaaaaaa");
         t.setText("aaaaaaaa");
+        t.setText("aaaaaaaa");
     }
 }
